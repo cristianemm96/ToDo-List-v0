@@ -14,7 +14,6 @@ const Tareas = ()=>{
       setTareas([])
     }
 
-    console.log(tareas);
     return(
         <>   
             <FormTarea
